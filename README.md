@@ -52,4 +52,5 @@ Database applications like fast responding GUI, transaction handlings, and some 
 *Here is the Class Diagram for the Movie Ticketing System Project.*
 ![database schema](https://github.com/narotsitk/Movie-Ticketing-System/blob/main/images/Untitled.png?raw=true)
 
-
+## Project Documentation
+[Project Documentation](https://github.com/narotsitk/Movie-Ticketing-System/blob/main/Java_GUI_Project.pdf)
