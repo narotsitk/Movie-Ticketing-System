@@ -23,8 +23,12 @@ Database applications like fast responding GUI, transaction handlings, and some 
 
 
 ## Project Structure
+![project structure](https://github.com/narotsitk/Movie-Ticketing-System/blob/main/images/Screenshot%202024-02-22%20233058.png?raw=true)
+
 *Project Structure for the Movie Ticketing System is divided into mainly Two Parts / Packages.*
 ### BACKEND
+![backend structure](https://github.com/narotsitk/Movie-Ticketing-System/blob/main/images/Screenshot%202024-02-22%20233330.png?raw=true)
+
 *The Backend package has 3 main parts:*
 - #### models:
     - *This package consists of all the class representation of the tables in the database.*
@@ -33,6 +37,8 @@ Database applications like fast responding GUI, transaction handlings, and some 
 - #### DBconnection:
     - *This class is what helps to create singleton database connection.*
 ### GUI
+![gui structure](https://github.com/narotsitk/Movie-Ticketing-System/blob/main/images/Screenshot%202024-02-22%20233917.png?raw=true)
+
   *The GUI also called the front end is the part where UI/UX handling takes place.*
   -	*account class for user account setting and changing password , email and other info.*
   -	*app class is the entry point for the whole project ( i.e starter for the application).*
@@ -44,5 +50,6 @@ Database applications like fast responding GUI, transaction handlings, and some 
 
 ## Database Schema
 *Here is the Class Diagram for the Movie Ticketing System Project.*
- 
+![database schema](https://github.com/narotsitk/Movie-Ticketing-System/blob/main/images/Untitled.png?raw=true)
+
 
